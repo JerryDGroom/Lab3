@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1424697042 source:c:\users\jerry groom\desktop\data structures\lab3\listarray.cpp
+	"ListArray.h"
+	<iostream>
+	<iomanip>
+
+1424113797 c:\users\jerry groom\desktop\data structures\lab3\listarray.h
+	<stdexcept>
+	<iostream>
+
+1424113797 source:c:\users\jerry groom\desktop\data structures\lab3\sumintegers.cpp
+	<iostream>
+	"ListArray.cpp"
+
+1424697042 c:\users\jerry groom\desktop\data structures\lab3\listarray.cpp
+	"ListArray.h"
+	<iostream>
+	<iomanip>
+
+1424131511 source:c:\users\jerry groom\desktop\data structures\lab3\test3.cpp
+	<iostream>
+	"ListArray.cpp"
+	"config.h"
+
+1424791435 c:\users\jerry groom\desktop\data structures\lab3\config.h
+
